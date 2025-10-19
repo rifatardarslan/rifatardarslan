@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rıfat Arda Arslan</h1>
+<h1 align="center">👋 Hi, I'm Rifat Arda Arslan</h1>
 
 <p align="center">
   <b>Reverse Engineer | Game Developer | C# & UE5 Enthusiast | Cybersecurity Learner</b>
