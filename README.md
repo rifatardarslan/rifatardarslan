@@ -1,20 +1,70 @@
-<h1 align="center">Hi 👋, I'm Rifat Arda Arslan</h1>
-<h3 align="center">A passionate software engineering student focused on cybersecurity and game development.</h3>
+<h1 align="center">👋 Hi, I'm Rıfat Arda Arslan</h1>
 
-- 📫 How to reach me **rifatardarslan023@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rifat-arda-arslan-450800344/?trk=opento_sprofile_topcard" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat arda arslan" height="30" width="40" />
-</a>
+<p align="center">
+  <b>Reverse Engineer | Game Developer | C# & UE5 Enthusiast | Cybersecurity Learner</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/rifatardarslan?tab=followers">
+    <img src="https://img.shields.io/github/followers/rifatardarslan?style=social" alt="Followers"/>
+  </a>
+  <a href="https://github.com/rifatardarslan">
+    <img src="https://img.shields.io/github/stars/rifatardarslan?style=social" alt="Stars"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifatardarslan&show_icons=true&locale=en&layout=compact" alt="rifatardarslan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifatardarslan&show_icons=true&locale=en" alt="rifatardarslan" /></p>
+## 🧠 About Me
+🎓 Software Engineering student focused on **game development** and **reverse engineering**.  
+⚙️ Experienced with **C#**, **Python**, and **Unreal Engine 5 (Blueprint)**.  
+🔐 Interested in **cybersecurity**, **low-level systems**, and **AI integration in games**.  
+📦 Also exploring embedded systems and Raspberry Pi automation.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatardarslan&" alt="rifatardarslan" /></p>
+---
+
+## 🧰 Tech Stack
+| Category | Tools |
+|-----------|--------|
+| 💻 Languages | C#, Python, C++, Blueprints |
+| 🕹️ Game Dev | Unreal Engine 5, Unity, Visual Studio |
+| ⚙️ Reverse Engineering | IDA, Ghidra, x64dbg, dnSpy |
+| 🔐 Security & Tools | Kali Linux, Wireshark, Burp Suite |
+| 🧠 AI & Automation | YOLO, OpenCV, TensorFlow, Raspberry Pi |
+
+---
+
+## 🎮 Highlight Projects
+| Project | Description |
+|----------|-------------|
+| [🕹️ 2DungeonGame](https://github.com/rifatardarslan/2DungeonGame) | UE5 Blueprint-based dungeon crawler game |
+| [🧩 Crackme-Solutions](https://github.com/rifatardarslan/Crackme-Solutions) | Reverse engineering practice and write-ups |
+| [📘 Leetcode](https://github.com/rifatardarslan/Leetcode) | Algorithm & coding problem solutions |
+| [🤖 SmartHome-Security](#) *(coming soon)* | AI-powered security system using Raspberry Pi |
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifatardarslan&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatardarslan&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatardarslan&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:example@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/rifatardarslan">Rıfat Arda Arslan</a></p>
