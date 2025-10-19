@@ -16,10 +16,11 @@
 ---
 
 ## 🧠 About Me
-🎮 Game developer and software engineering student focused on **Unreal Engine 5 Blueprints**.  
-⚙️ I design gameplay systems, AI behaviors, and interactive mechanics.  
-💡 I also explore **reverse engineering**, **game security**, and **low-level programming**.  
-🧠 Always learning, building, and experimenting with **C#**, **Python**, and **Raspberry Pi**.
+💻 Software Engineering student diving deep into **reverse engineering**, **cybersecurity**, and **game logic systems**.  
+🎮 Building games with **Unreal Engine 5 Blueprints** and scripting tools in **C#** and **Python**.  
+🧠 Exploring memory structures, binary behavior, and AI-driven mechanics.  
+⚡ Constantly experimenting with **Raspberry Pi** projects and automation.  
+🌐 Portfolio & Blog: [rifatardarslan.com](https://rifatardarslan.com)
 
 ---
 
