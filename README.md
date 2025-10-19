@@ -16,10 +16,10 @@
 ---
 
 ## 🧠 About Me
-🎓 Software Engineering student focused on **game development** and **reverse engineering**.  
-⚙️ Experienced with **C#**, **Python**, and **Unreal Engine 5 (Blueprint)**.  
-🔐 Interested in **cybersecurity**, **low-level systems**, and **AI integration in games**.  
-📦 Also exploring embedded systems and Raspberry Pi automation.
+🎮 Game developer and software engineering student focused on **Unreal Engine 5 Blueprints**.  
+⚙️ I design gameplay systems, AI behaviors, and interactive mechanics.  
+💡 I also explore **reverse engineering**, **game security**, and **low-level programming**.  
+🧠 Always learning, building, and experimenting with **C#**, **Python**, and **Raspberry Pi**.
 
 ---
 
@@ -61,10 +61,10 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="mailto:example@email.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:rifatardarslan023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rifat-arda-arslan"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/rifatardarslan">Rıfat Arda Arslan</a></p>
+<p align="center">⭐️ From <a href="https://github.com/rifatardarslan">Rifat Arda Arslan</a></p>
