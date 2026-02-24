@@ -39,17 +39,6 @@ Yazılım mühendisliği öğrencisi olarak teknolojinin hem savunma hem de anal
   <img src="https://img.shields.io/badge/Malware_Analizi-Green?style=for-the-badge&logo=octopusdeploy" />
 </p>
 
----
-
-## 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rifatardarslan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rifat Arda Arslan Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatardarslan&layout=compact&theme=radical&hide=html,css,javascript" alt="Diller" />
-</p>
-
-<br clear="both" />
-
 &nbsp;
 
 ---
